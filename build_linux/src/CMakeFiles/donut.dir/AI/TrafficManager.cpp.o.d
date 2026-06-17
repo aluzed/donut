@@ -202,6 +202,8 @@ src/CMakeFiles/donut.dir/AI/TrafficManager.cpp.o: \
  /usr/include/c++/13/bits/uniform_int_dist.h \
  /usr/include/c++/13/pstl/glue_algorithm_defs.h \
  /tmp/opencode/fmt/include/fmt/format.h \
+ /var/www/reverse/donut/src/Core/Math/Matrix4x4.h \
+ /var/www/reverse/donut/src/Core/Math/Matrix3x3.h /usr/include/assert.h \
  /var/www/reverse/donut/src/Level.h \
  /var/www/reverse/donut/src/Core/Math/Fwd.h /usr/include/c++/13/map \
  /usr/include/c++/13/bits/stl_tree.h \
@@ -221,4 +223,7 @@ src/CMakeFiles/donut.dir/AI/TrafficManager.cpp.o: \
  /var/www/reverse/donut/src/Render/OpenGL/glad/glad.h \
  /var/www/reverse/donut/src/Render/OpenGL/glad/khrplatform.h \
  /var/www/reverse/donut/src/Render/OpenGL/VertexBinding.h \
- /var/www/reverse/donut/src/Render/OpenGL/VertexBuffer.h
+ /var/www/reverse/donut/src/Render/OpenGL/VertexBuffer.h \
+ /var/www/reverse/donut/src/Render/SimpleMesh.h \
+ /var/www/reverse/donut/src/Core/Math/Vector2.h \
+ /var/www/reverse/donut/src/Render/OpenGL/IndexBuffer.h
