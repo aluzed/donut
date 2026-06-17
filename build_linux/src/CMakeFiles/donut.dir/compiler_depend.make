@@ -12963,6 +12963,7 @@ src/CMakeFiles/donut.dir/Render/SkinModel.cpp.o: /var/www/reverse/donut/src/Rend
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h \
+  /var/www/reverse/donut/src/Core/Math/Fwd.h \
   /var/www/reverse/donut/src/Core/Math/Math.h \
   /var/www/reverse/donut/src/Core/Math/Matrix3x3.h \
   /var/www/reverse/donut/src/Core/Math/Matrix4x4.h \
@@ -16440,6 +16441,7 @@ src/CMakeFiles/donut.dir/Scripting/GameCommands.cpp.o: /var/www/reverse/donut/sr
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
   /var/www/reverse/donut/src/Core/Log.h \
+  /var/www/reverse/donut/src/Core/Math/Fwd.h \
   /var/www/reverse/donut/src/Core/Math/Math.h \
   /var/www/reverse/donut/src/Core/Math/Matrix3x3.h \
   /var/www/reverse/donut/src/Core/Math/Matrix4x4.h \
@@ -18545,6 +18547,10 @@ src/CMakeFiles/donut.dir/main.cpp.o: /var/www/reverse/donut/src/main.cpp \
   /usr/lib/gcc/x86_64-linux-gnu/13/include/xsaveoptintrin.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/include/xsavesintrin.h \
   /usr/lib/gcc/x86_64-linux-gnu/13/include/xtestintrin.h \
+  /var/www/reverse/donut/src/Core/Math/Fwd.h \
+  /var/www/reverse/donut/src/Core/Math/Math.h \
+  /var/www/reverse/donut/src/Core/Math/Vector3.h \
+  /var/www/reverse/donut/src/Core/Platform.h \
   /var/www/reverse/donut/src/Game.h
 
 
