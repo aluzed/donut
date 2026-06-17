@@ -285,4 +285,7 @@ src/CMakeFiles/donut.dir/Scripting/ScriptEngine.cpp.o: \
  /var/www/reverse/donut/src/Scripting/Commands.h \
  /var/www/reverse/donut/src/Core/File.h /usr/include/c++/13/cassert \
  /var/www/reverse/donut/src/Scripting/GameCommands.h \
- /usr/include/c++/13/charconv
+ /usr/include/c++/13/charconv /usr/include/c++/13/fstream \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
+ /usr/include/c++/13/bits/fstream.tcc
